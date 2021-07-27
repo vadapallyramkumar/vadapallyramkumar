@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vadapallyramkumar
 - 👀 I’m interested in Web develeopment
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning React native
 - 💞️ I’m looking to collaborate on more web development projects
 - 📫 How to reach me mail me @ ramkumararvind6@gmail.com
 
